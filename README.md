@@ -1,8 +1,8 @@
 下載安裝
-https://www.cursor.com/cn/downloads
-https://v0.dev/chat
-https://vercel.com/sharkmiaos-projects/~/settings
-
+1. https://www.cursor.com/cn/downloads
+2. https://v0.dev/chat
+3. https://vercel.com/sharkmiaos-projects/~/settings
+4. 
 
 # Vibe-Coding
 Vibe Coding
